@@ -6,7 +6,7 @@ public class Main {
         Scanner sc = new Scanner(System.in);
 
         int tests = sc.nextInt();
-        long a, b, c, temp, temp2;
+        long a, b, c, temp;
         for(long i = 0; i<tests; i++) {
             a = sc.nextLong();
             b = sc.nextLong();
