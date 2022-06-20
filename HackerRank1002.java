@@ -18,4 +18,5 @@ public class HackerRank1002 {
            arr.add(sc.nextInt());
        }
     }
+    
 }
