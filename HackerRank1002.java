@@ -12,6 +12,7 @@ public class HackerRank1002 {
         takeInput(inputArray);
         inputArray.forEach(n-> System.out.println(n));
     }
+    
     public static void takeInput(ArrayList<Integer> arr) {
        while(sc.hasNextInt()) {
            arr.add(sc.nextInt());
